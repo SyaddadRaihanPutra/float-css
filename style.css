@@ -1,0 +1,18 @@
+html {
+    font-family: poppins;
+}
+
+.box {
+    width: 80px;
+    height: 80px;
+    background-color: #bc35ff;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    line-height: 80px;
+    margin: 5px;
+    float: left;
+    font-weight: 500;
+    text-transform: uppercase;
+    border-radius: 15px;
+}
